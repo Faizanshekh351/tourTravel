@@ -25,7 +25,7 @@ return(
     <span style={{fontSize:"2.5rem"}}>📱</span>
       <div>
       <h4 style={{color:"#4caf50",margin:0}}>FLAT USD. 50 OFF</h4>
-      <p style={{fontSize:"0.85rem",color:"#333" ,margin:0 ,fontWeight:"600"}}>US APP OFFER</p>
+      <p style={{fontSize:"0.85rem",color:"#333" ,margin:0 ,fontWeight:"600"}}>SPECIAL OFFER</p>
     </div>
   </div>
 
